@@ -58,3 +58,5 @@ footer a{color:#fff;text-decoration:none;margin-right:14px}
 .greet .sign b{font-size:21px;display:block;margin-top:4px}
 .greet .back{margin-top:44px;font-size:15px}
 @media (max-width:760px){.greet p{font-size:15px}}
+
+.greet h3{font-size:19px;color:var(--navy);margin:30px 0 8px}
