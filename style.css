@@ -20,7 +20,7 @@ nav.g a:hover,nav.g a.on{background:var(--blue)}
 section{padding:44px 0}
 section+section{border-top:1px solid var(--line)}
 h2.sec{font-size:22px;margin:0 0 22px;padding-left:14px;border-left:5px solid var(--blue);color:var(--navy)}
-.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.cards{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
 .card{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:22px}
 .card h3{margin:0 0 8px;font-size:17px;color:var(--navy)}
 .card p{margin:0;font-size:14px;color:#374151}
