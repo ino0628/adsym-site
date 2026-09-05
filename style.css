@@ -7,7 +7,7 @@ a{color:var(--blue)}
 header{background:#fff;border-bottom:1px solid var(--line)}
 .hd{display:flex;align-items:center;justify-content:space-between;height:68px}
 .brand{display:flex;align-items:center;gap:12px;font-weight:800;font-size:20px;letter-spacing:.02em;color:var(--navy);text-decoration:none}
-.brand i{display:inline-block;width:30px;height:30px;border-radius:50%;background:linear-gradient(90deg,#2a78d6 50%,#f08a12 50%);border:3px solid var(--navy)}
+.brand img{height:44px;width:44px;object-fit:contain;display:block}
 nav.g{background:var(--navy)}
 nav.g ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap}
 nav.g a{display:block;padding:12px 18px;color:#fff;text-decoration:none;font-size:14px;font-weight:600}
