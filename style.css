@@ -60,3 +60,11 @@ footer a{color:#fff;text-decoration:none;margin-right:14px}
 @media (max-width:760px){.greet p{font-size:15px}}
 
 .greet h3{font-size:19px;color:var(--navy);margin:30px 0 8px}
+/* ポリシー等の長文 */
+.policy ol,.policy ul{margin:0 0 18px;padding-left:1.5em;font-size:17px;line-height:1.9;color:#374151}
+.policy li{margin:6px 0}
+.policy .meta{font-size:15px;color:#4b5563;line-height:1.9;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:14px 18px;display:inline-block}
+.policy table.co{margin:12px 0 24px}
+.policy table.co td ul{margin:0;padding-left:1.2em;font-size:16px}
+.policy table.co th{width:13em;white-space:normal}
+@media (max-width:760px){.policy ol,.policy ul{font-size:15px}.policy table.co th{width:7.5em}}
